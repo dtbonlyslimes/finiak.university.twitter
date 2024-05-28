@@ -192,3 +192,10 @@ Link to github, where source code is stored
 #### ❌ Update README with project conclusion and acknowledgments.
 #### ❌ Conduct unit tests for bookmarking functionality.
 #### ❌ Perform final acceptance testing on Azure deployment.
+
+Anti-Lab 2
+Hrabar Danylo
+my repository: https://github.com/dtbonlyslimes/Hrabar.University.Uber
+my pull request: https://github.com/dtbonlyslimes/finiak.university.twitter/pull/1
+
+
